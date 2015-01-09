@@ -14,8 +14,8 @@
     "screenshot.png"
   ],
   "dependencies": {
-    "momentjs": "~2.5.1",
-    "moment-timezone": "~0.0.3"
+    "moment": "~2.8.4",
+    "moment-timezone": "~0.2.5"
   },
   "devDependencies": {
     "angular": "~1.2.0",
